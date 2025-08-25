@@ -21,4 +21,4 @@ CSS
 OpenWeatherMap API
 
 # Demo
-Live demo available at:
+Live demo available at: https://wandile-intern.github.io/weather-app-react/
